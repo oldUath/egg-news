@@ -6,3 +6,7 @@ exports.view = {
     '.tpl': 'nunjucks',
   },
 };
+exports.news = {
+  pageSize: 5,
+  serverUrl: 'https://52.197.183.123',
+};
